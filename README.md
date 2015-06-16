@@ -1,4 +1,4 @@
-RelengAPI-Slaveloan
+RelengAPI Slaveloan
 ===================
 
-This is the API for self-service machine loans. For Mozilla's Release Engineering.
+See the [RelengAPI repository](https://github.com/mozilla/build-relengapi) for the slave loan code.
